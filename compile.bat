@@ -13,14 +13,14 @@ cls
 echo Next What is the Project name you want
 set /p Thing=
 mkdir %Thing%
-cd %thing%
+
 
 
 
 cls
 echo what is the path your extract this little OneClick Install all project?
  set /p Pather=
-move "%Pather%\Sources\%ProjectName%" "%Pather%\Sources\%Thing%"
+move "%Pather%\Sources\Install.bat" "%Pather%\Sources\%Thing%"
 echo finished :)
 Pause
  
