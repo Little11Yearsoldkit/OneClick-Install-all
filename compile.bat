@@ -22,5 +22,6 @@ echo what is the path your extract this little OneClick Install all project?
  set /p Pather=
 move "%Pather%\Sources\Install.bat" "%Pather%\Sources\%Thing%"
 echo finished :)
+echo The Installer is ready
 Pause
  
