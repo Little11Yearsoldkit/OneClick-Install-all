@@ -1,0 +1,7 @@
+@echo off
+title installing software
+echo installing
+CD EXEINSTALLER
+ExampleTest.exe
+CD MSIINSTALLER
+ExampleMSI.msi
