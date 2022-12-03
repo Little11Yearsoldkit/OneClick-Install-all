@@ -8,3 +8,4 @@ CD MSIINSTALLER
 CorruptMSI.MSI
 Echo Done
 pause
+echo
