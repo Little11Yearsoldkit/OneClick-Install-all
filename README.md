@@ -9,3 +9,7 @@ Compiling and Install instruction
 4. go to Sources folder and then Make a Text file for Example Thing.txt
 5. go to main folder and click compile.bat
 6.press any key in the compile.bat
+7.Enter your file name we made before
+8.Name your project
+9.enter the folder's path where you Extract it before
+10.Now done you can edit the install project then do it yourself or watch tutorial in youtube :)
